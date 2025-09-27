@@ -1,0 +1,6 @@
+﻿{
+  "name": "3rabi عربي",
+  "description": "مشاهدة الافلام والمسلسلات تجربة خالية من الاعلانات",
+  "manifestVersion": 1,
+  "pluginLists": ["https://raw.githubusercontent.com/anubisapk/ZaferTV/main/re-3arabi-main/plugins.json"]
+}
